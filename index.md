@@ -1,1 +1,6 @@
-{% post_url /_posts/2022-8-14-starting-the-work %}
+<meta charset="utf-8">
+<head></head>
+<body>
+  
+</body>
+<footer></footer>
