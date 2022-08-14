@@ -4,4 +4,4 @@ title:  "hello"
 ---
 
 # hello
-This is my start :) Welcome to my site. I wish you like it !
+This is my start 🎉 I wish you like it !
